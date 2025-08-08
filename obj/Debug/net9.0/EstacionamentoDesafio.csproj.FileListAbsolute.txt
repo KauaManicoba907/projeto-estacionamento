@@ -1,0 +1,14 @@
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\bin\Debug\net9.0\EstacionamentoDesafio.exe
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\bin\Debug\net9.0\EstacionamentoDesafio.deps.json
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\bin\Debug\net9.0\EstacionamentoDesafio.runtimeconfig.json
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\bin\Debug\net9.0\EstacionamentoDesafio.dll
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\bin\Debug\net9.0\EstacionamentoDesafio.pdb
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\EstacionamentoDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\EstacionamentoDesafio.AssemblyInfoInputs.cache
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\EstacionamentoDesafio.AssemblyInfo.cs
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\EstacionamentoDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\EstacionamentoDesafio.dll
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\refint\EstacionamentoDesafio.dll
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\EstacionamentoDesafio.pdb
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\EstacionamentoDesafio.genruntimeconfig.cache
+C:\Users\Kauã\Desktop\EstacionamentoDesafio\obj\Debug\net9.0\ref\EstacionamentoDesafio.dll
